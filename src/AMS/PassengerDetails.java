@@ -50,7 +50,7 @@ public class PassengerDetails extends JFrame implements ActionListener {
         l1.add(l4);
 
         tf2=new JTextField();
-        tf2.setBounds(220,160,180,30);
+        tf2.setBounds(680,100,200,30);
         l1.add(tf2);
 
         l5=new JLabel("Age");
@@ -60,7 +60,7 @@ public class PassengerDetails extends JFrame implements ActionListener {
         l1.add(l5);
 
         tf3=new JTextField();
-        tf3.setBounds(680,160,180,30);
+        tf3.setBounds(220,160,180,30);
         l1.add(tf3);
 
         l6=new JLabel("Date Of Birth");
@@ -70,7 +70,7 @@ public class PassengerDetails extends JFrame implements ActionListener {
         l1.add(l6);
 
         tf4=new JTextField();
-        tf4.setBounds(680,100,200,30);
+        tf4.setBounds(680,160,200,30);
         l1.add(tf4);
 
         l7=new JLabel("Address");
